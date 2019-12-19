@@ -11,7 +11,7 @@
 |                |4.Thu nhập năm: xét về thu nhập khách hàng so với khoảng nợ đang vay|
 | **Models**     | DecisionTreeClassifier và RandomForestClassifier, so sánh kết quả của 2 model|
 | **Results**    | 1.![DecisionTreeClassifier](DecisionTreeClassifier.png)|
-|.               | 2.![DecisionTreeClassifier](RandomForestClassifier_2.png) |
+|.               | 2.![DecisionTreeClassifier](RandomForestClassifier_3.png) |
 | **Discussion** | Kết quả mong đợi: thuật toán sẽ cho ra Feature 1 (Ngày đáo hạn và ngày nhận lương) vì đây là Feature có thể thay đổi. Nhưng kết quả cho ra tỷ lệ bình quân sử dụng và dư nợ |
 | **Future**     ||
 |**References**  ||
