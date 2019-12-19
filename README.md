@@ -8,7 +8,7 @@
 | **Features**   |1. Ngày đáo hạn và ngày nhận lương: nhận thấy rằng nếu ngày nhận lương quá xa ngày đáo hạn, có thể khách hàng sẽ không còn đủ tiền trả nợ|
 |                |2.ỷ lệ sử dụng bình quân (dư nợ bình quân/hạn mức được cấp): nhận thấy rằng khách hàng có tỷ lệ lớn, dư nợ kéo dài và ít có chiều hướng giảm => khả năng khách hàng này mất khả năng chi trả trong tương lai|
 |                |3.Tuổi: xét về tuổi lao động khách hàng|
-|                |4.Thu nhận năm: xét về thu nhập khách hàng so với khoảng nợ đang vay|
+|                |4.Thu nhập năm: xét về thu nhập khách hàng so với khoảng nợ đang vay|
 | **Models**     | DecisionTreeClassifier và RandomForestClassifier, so sánh kết quả của 2 model|
 | **Results**    | 1.![DecisionTreeClassifier](DecisionTreeClassifier.png)|
 |.               | 2.![DecisionTreeClassifier](RandomForestClassifier_2.png) |
